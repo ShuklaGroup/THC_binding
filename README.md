@@ -2,13 +2,13 @@
 This repository contains MSM feature file, final MSM object, codes and pdb structure files, and bootstrap samples used to genarate figures and calculations in the manuscript.
 
 ## features.pkl
-This file can be downloaded from . This file is a list of arrays where each array represents a MD trajectory. It contains 23 features for each MD trajectory used to build the final MSM. 
+This file can be downloaded from https://uofi.box.com/s/g1x5vfukl6492jtuzpx7u1rbyki2t85z. This file is a list of arrays where each array represents a MD trajectory. It contains 23 features for each MD trajectory used to build the final MSM. 
 
 ## final_MSM_obj.pkl
-This file can be downloaded from . It contains optimal MSM object with 200 clusters and 20 ns lagtime. 
+This file can be downloaded from https://uofi.box.com/s/hzzgzq0xw1tcgsjlnecklajpjdtmm4ma. It contains optimal MSM object with 200 clusters and 20 ns lagtime. 
 
 ## bootstraping
-This folder can be downloaded from . It contains 200 bootstrap samples and corresponding MSMs with same state index as reference MSM.
+This folder can be downloaded from https://uofi.box.com/s/88nzwam5ygout7x3wvswxzlbcfkqxky3. It contains 200 bootstrap samples and corresponding MSMs with same state index as reference MSM.
 
 ## Figure_3
 - Figure_3A.py: python code to generate two dimentional free energy landscape as shown in Figure 3A
