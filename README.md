@@ -13,7 +13,10 @@ This folder can be downloaded from . It contains 200 bootstrap samples and corre
 ## Figure_3
 - Figure_3A.py: python code to generate two dimentional free energy landscape as shown in Figure 3A
 - Figure_3B.py: python code to generate one dimentional free energy landscape as shown in Figure 3B
-- Representative MD structures from different THC binding poses as shown in Figure 3B
+- Representative MD structures from different THC binding poses as shown in Figure 3C, 3D, and 3E.
+
+## Figure_4
+- Representative MD structures from different THC binding poses as shown in Figure 4.
 
 ## Figure_5
 - Figure_5A.py: python code to generate two dimentional free energy landscape as shown in Figure 5A.
