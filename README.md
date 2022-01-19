@@ -35,4 +35,4 @@ This folder can be downloaded from https://uofi.box.com/s/88nzwam5ygout7x3wvswxz
 - Representative MD structures from partially active state.
 
 ## Figure_8
-- Docked structures of each of the five partial agonists in both antagonist-like and agonist-like docking poses.
+- 
