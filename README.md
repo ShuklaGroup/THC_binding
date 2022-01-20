@@ -39,5 +39,5 @@ This folder can be downloaded from https://uofi.box.com/s/88nzwam5ygout7x3wvswxz
 - Figure_8B.py: python code for calculation of K-L divergence of partial agonist and agonist bound ensemble 
 - Figure_8C.py: python code to generate 2-D scatter plot projecting toggle switch movement and TM6 movement 
 - Figure_8D.py: python code to generate 2-D scatter plot projecting toggle switch movement and NPxxY movement
-- agonist_heavy_atom_distances.npy: array containing closest heavy atom distances for every pair of residue in the agonist bound ensemble
-- partial_agonist_heavy_atom_distances.npy: array containing closest heavy atom distances for every pair of residue in the partial agonist bound ensemble
+- agonist_heavy_atom_distances.npy: array containing closest heavy atom distances for every pair of residue in the agonist bound ensemble. This file can be downloaded from https://uofi.box.com/s/y92093ay6t8ma0p12jgyxpwxxjf2ibh8
+- partial_agonist_heavy_atom_distances.npy: array containing closest heavy atom distances for every pair of residue in the partial agonist bound ensemble. This file can be downloaded from https://uofi.box.com/s/y92093ay6t8ma0p12jgyxpwxxjf2ibh8
