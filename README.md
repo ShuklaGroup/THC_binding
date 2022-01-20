@@ -35,4 +35,7 @@ This folder can be downloaded from https://uofi.box.com/s/88nzwam5ygout7x3wvswxz
 - Representative MD structures from partially active state.
 
 ## Figure_8
-- 
+- Figure_8A.py: python code to generate two 
+- Figure_8B.py: 
+- Figure_8C.py:
+- Figure_8D.py:
