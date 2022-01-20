@@ -35,7 +35,9 @@ This folder can be downloaded from https://uofi.box.com/s/88nzwam5ygout7x3wvswxz
 - Representative MD structures from partially active state.
 
 ## Figure_8
-- Figure_8A.py: python code to generate two 
-- Figure_8B.py: 
-- Figure_8C.py:
-- Figure_8D.py:
+- Figure_8A.py: python code to generate 2-D scatter plot projecting the principal component 1 and 2 
+- Figure_8B.py: python code for calculation of K-L divergence of partial agonist and agonist bound ensemble 
+- Figure_8C.py: python code to generate 2-D scatter plot projecting toggle switch movement and TM6 movement 
+- Figure_8D.py: python code to generate 2-D scatter plot projecting toggle switch movement and NPxxY movement
+- agonist_heavy_atom_distances.npy: array containing closest heavy atom distances for every pair of residue in the agonist bound ensemble
+- partial_agonist_heavy_atom_distances.npy: array containing closest heavy atom distances for every pair of residue in the partial agonist bound ensemble
