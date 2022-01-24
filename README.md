@@ -41,3 +41,8 @@ This folder can be downloaded from https://uofi.box.com/s/88nzwam5ygout7x3wvswxz
 - Figure_8D.py: python code to generate 2-D scatter plot projecting toggle switch movement and NPxxY movement
 - agonist_heavy_atom_distances.npy: array containing closest heavy atom distances for every pair of residue in the agonist bound ensemble. This file can be downloaded from https://uofi.box.com/s/y92093ay6t8ma0p12jgyxpwxxjf2ibh8
 - partial_agonist_heavy_atom_distances.npy: array containing closest heavy atom distances for every pair of residue in the partial agonist bound ensemble. This file can be downloaded from https://uofi.box.com/s/y92093ay6t8ma0p12jgyxpwxxjf2ibh8
+
+## Mutual_information_calculation
+- mdentropy_calculation.py : mutual information calculation for partial agonist and agonist bound ensemble 
+- dijksta_graph.py : estimation of shorest allosteric path between toggle switch and NPxxY region for partial agonist and agonist bound ensemble 
+- necessary files for the analysis can be downloaded from https://uofi.box.com/s/mm3yvufwfkkovja78ziv4jt1kzgw6fjn
